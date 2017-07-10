@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+
+}
+h1 {
+  color: black;
+  width: 300px;
+  height: 500px;
+  background-color: white;
+  margin: auto;
+}
+p {
+  color: lightgrey;
+
+}
+.signIn {
+  
+}
